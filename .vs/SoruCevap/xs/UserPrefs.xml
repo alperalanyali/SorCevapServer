@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{EEDF7175-68B4-450B-A3CD-353F16581254}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoruCevap/Controllers/CevapSonucController.cs">
+    <Files>
+      <File FileName="SoruCevap/Controllers/SinavController.cs" Line="1" Column="1" />
+      <File FileName="SoruCevap/Controllers/SoruController.cs" Line="59" Column="1" />
+      <File FileName="SoruCevap/Controllers/SinavSonucController.cs" Line="22" Column="1" />
+      <File FileName="SoruCevap/Controllers/AuthController.cs" Line="29" Column="120" />
+      <File FileName="SoruCevap/Dtos/LoginResponse.cs" Line="10" Column="10" />
+      <File FileName="SoruCevap/Controllers/CevapSonucController.cs" Line="28" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoruCevap" expanded="True">
+            <Node name="SoruCevap" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CevapSonucController.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alperalanyali/Desktop/SoruCevap/SoruCevap/Controllers/AuthController.cs" relfile="SoruCevap/Controllers/AuthController.cs" line="35" column="1" />
+      <Breakpoint file="/Users/alperalanyali/Desktop/SoruCevap/SoruCevap/Controllers/SinavController.cs" relfile="SoruCevap/Controllers/SinavController.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SoruCevap PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
